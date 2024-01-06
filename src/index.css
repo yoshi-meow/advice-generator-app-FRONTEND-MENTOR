@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn:hover {
+  box-shadow: 0 0 10px #52ffa8;
+}
+
+@media screen and (max-width: 375px) {
+  .card-advice {
+    width: 20rem;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .card-advice {
+    width: 22rem;
+    margin: auto;
+  }
+}
