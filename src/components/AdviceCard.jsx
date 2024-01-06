@@ -31,7 +31,7 @@ const AdviceCard = () => {
           <span className="block text-sm font-semibold my-4 text-NeonGreen text-center tracking-[0.4em]">
             ADVICE #{adviceId}
           </span>
-          <h1 className="text-LightCyan text-[28px] my-6 font-bold text-center tracking-wide">
+          <h1 className="font-custom text-LightCyan text-[28px] my-6 font-bold text-center tracking-wide">
             "{advice}"
           </h1>
           <div className="flex items-center justify-center my-8">
