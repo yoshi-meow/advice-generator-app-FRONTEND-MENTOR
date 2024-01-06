@@ -28,7 +28,7 @@ Users should be able to:
 Desktop 1440px
 [![localhost-5173.png](https://i.postimg.cc/5NCSx9JQ/localhost-5173.png)](https://postimg.cc/Whsk8vhs)
 
-Mobile 375px
+Mobile 375px <br>
 [![localhost-5173-1.png](https://i.postimg.cc/j5DZPzpZ/localhost-5173-1.png)](https://postimg.cc/2bfQfB8Z)
 
 ### Links
